@@ -58,7 +58,7 @@ Perfect for integration into projects like:
 
 - 🤗 [Hugging Face Transformers](https://huggingface.co) – for RT-DETR integration  
 - 🧠 [ViTPose Paper](https://arxiv.org/abs/2204.12484) – model architecture reference  
-- 🔧 Implementation by [@qubvel](https://github.com/qubvel)  
+- 🔧 Codebase inspired by [@qubvel](https://github.com/qubvel)  
 - 🎞️ Demo GIF hosted by [@janithaDassanayake](https://github.com/janithaDassanayake)  
 
 > 🛠️ Feel free to fork, experiment, and contribute to advancing pose estimation!

@@ -1,5 +1,9 @@
 # 🧍‍♂️ Pose Estimation with ViTPose 🧍‍♀️
 
+
+![ViTPose Demo](https://github.com/janithaDassanayake/dummyimages/raw/main/ezgif-363d42dfc4201a.gif)
+
+
 Pose estimation is a powerful computer vision task focused on detecting and tracking **human body keypoints** (such as joints and limbs) from images or videos. 🧠📸  
 It plays a crucial role in various domains such as:
 
@@ -9,10 +13,6 @@ It plays a crucial role in various domains such as:
 - 🧑‍⚕️ Healthcare  
 - 🎮 Augmented Reality (AR)
 
-
-## 👁️ Demo
-
-![ViTPose Demo](https://github.com/janithaDassanayake/dummyimages/raw/main/ezgif-363d42dfc4201a.gif)
 
 ## 🚀 What is ViTPose?
 

@@ -54,6 +54,17 @@ Perfect for integration into projects like:
 - 🧑‍⚕️ Digital healthcare assistants
 
 
+
+## ▶️ Run on Google Colab 😊
+
+Click the badge below to open the full notebook in Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JLM_ZkNvLc4GCQD0jSH0LS6LQa4xEObU)
+
+> ⚡ **Tip:** Once opened, go to `File > Save a copy in Drive` to make your own editable version and start experimenting!
+
+
+
 ## 🙌 Credits
 
 - 🤗 [Hugging Face Transformers](https://huggingface.co) – for RT-DETR integration  
